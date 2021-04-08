@@ -1,5 +1,5 @@
-region="us-east-1"
-cidr = "10.0.0.0/16"
+region = "us-east-1"
+cidr =  "10.0.0.0/16"
 name = "prod"
 public1_subnet_cider = "10.0.1.0/24"
 public2_subnet_cider = "10.0.2.0/24"
